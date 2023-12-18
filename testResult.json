@@ -1,0 +1,891 @@
+[
+  {
+    "testId": "BasicDeal_Rebate_Fees_Accessories_Fni_Leased_Positive_TradeIn_CASH_30368",
+    "amountFinanced": 54531.21,
+    "monthlyPayment": 54531.21,
+    "outOfPocketCash": 54531.21,
+    "financeCharge": 0.0
+  },
+  {
+    "testId": "BasicDeal_Rebate_Fees_Accessories_Fni_Leased_Negative_TradeIn_CASH_46107",
+    "amountFinanced": 59371.21,
+    "monthlyPayment": 59371.21,
+    "outOfPocketCash": 59371.21,
+    "financeCharge": 0.0
+  },
+  {
+    "testId": "BasicDeal_Rebate_Fees_Accessories_Fni_Owned_Positive_TradeIn_CASH_46107",
+    "amountFinanced": 54461.21,
+    "monthlyPayment": 54461.21,
+    "outOfPocketCash": 54461.21,
+    "financeCharge": 0.0
+  },
+  {
+    "testId": "BasicDeal_Rebate_Fees_Accessories_Fni_Owned_Negative_TradeIn_CASH_30368",
+    "amountFinanced": 59154.21,
+    "monthlyPayment": 59154.21,
+    "outOfPocketCash": 59154.21,
+    "financeCharge": 0.0
+  },
+  {
+    "testId": "BasicDeal_Rebate_Fees_Accessories_Fni_Leased_Negative_TradeIn_CASH_30368",
+    "amountFinanced": 59231.21,
+    "monthlyPayment": 59231.21,
+    "outOfPocketCash": 59231.21,
+    "financeCharge": 0.0
+  },
+  {
+    "testId": "BasicDeal_Rebate_Fees_Accessories_Fni_Leased_Positive_TradeIn_CASH_46107",
+    "amountFinanced": 54671.21,
+    "monthlyPayment": 54671.21,
+    "outOfPocketCash": 54671.21,
+    "financeCharge": 0.0
+  },
+  {
+    "testId": "BasicDeal_Rebate_Fees_Accessories_Fni_Owned_Positive_TradeIn_CASH_30368",
+    "amountFinanced": 54321.21,
+    "monthlyPayment": 54321.21,
+    "outOfPocketCash": 54321.21,
+    "financeCharge": 0.0
+  },
+  {
+    "testId": "BasicDeal_Rebate_Fees_Accessories_Fni_Owned_Negative_TradeIn_CASH_46107",
+    "amountFinanced": 59294.21,
+    "monthlyPayment": 59294.21,
+    "outOfPocketCash": 59294.21,
+    "financeCharge": 0.0
+  },
+  {
+    "testId": "BasicDeal_Rebate_Fees_Accessories_Fni_Leased_Negative_TradeIn_CASH_37011",
+    "amountFinanced": 59557.38,
+    "monthlyPayment": 59557.38,
+    "outOfPocketCash": 59557.38,
+    "financeCharge": 0.0
+  },
+  {
+    "testId": "BasicDeal_Rebate_Fees_Accessories_Fni_Owned_Positive_TradeIn_CASH_28201",
+    "amountFinanced": 52421.01,
+    "monthlyPayment": 52421.01,
+    "outOfPocketCash": 52421.01,
+    "financeCharge": 0.0
+  },
+  {
+    "testId": "BasicDeal_Rebate_Fees_Accessories_Fni_Leased_Positive_TradeIn_CASH_28201",
+    "amountFinanced": 52511.01,
+    "monthlyPayment": 52511.01,
+    "outOfPocketCash": 52511.01,
+    "financeCharge": 0.0
+  },
+  {
+    "testId": "BasicDeal_Rebate_Fees_Accessories_Fni_Leased_Negative_TradeIn_CASH_28201",
+    "amountFinanced": 57211.01,
+    "monthlyPayment": 57211.01,
+    "outOfPocketCash": 57211.01,
+    "financeCharge": 0.0
+  },
+  {
+    "testId": "BasicDeal_Rebate_Fees_Accessories_Fni_Leased_Negative_TradeIn_CASH_70002",
+    "amountFinanced": 60375.32,
+    "monthlyPayment": 60375.32,
+    "outOfPocketCash": 60375.32,
+    "financeCharge": 0.0
+  },
+  {
+    "testId": "BasicDeal_Rebate_Fees_Accessories_Fni_Owned_Negative_TradeIn_CASH_70002",
+    "amountFinanced": 60274.12,
+    "monthlyPayment": 60274.12,
+    "outOfPocketCash": 60274.12,
+    "financeCharge": 0.0
+  },
+  {
+    "testId": "BasicDeal_Rebate_Fees_Accessories_Fni_Leased_Positive_TradeIn_CASH_70002",
+    "amountFinanced": 55675.32,
+    "monthlyPayment": 55675.32,
+    "outOfPocketCash": 55675.32,
+    "financeCharge": 0.0
+  },
+  {
+    "testId": "BasicDeal_Rebate_Fees_Accessories_Fni_Owned_Positive_TradeIn_CASH_70002",
+    "amountFinanced": 55399.32,
+    "monthlyPayment": 55399.32,
+    "outOfPocketCash": 55399.32,
+    "financeCharge": 0.0
+  },
+  {
+    "testId": "BasicDeal_Rebate_Fees_Accessories_Fni_Owned_Negative_TradeIn_CASH_28201",
+    "amountFinanced": 57178.01,
+    "monthlyPayment": 57178.01,
+    "outOfPocketCash": 57178.01,
+    "financeCharge": 0.0
+  },
+  {
+    "testId": "BasicDeal_Rebate_Fees_Accessories_Fni_Owned_Negative_TradeIn_CASH_37011",
+    "amountFinanced": 59478.62,
+    "monthlyPayment": 59478.62,
+    "outOfPocketCash": 59478.62,
+    "financeCharge": 0.0
+  },
+  {
+    "testId": "BasicDeal_Rebate_Fees_Accessories_Fni_Owned_Positive_TradeIn_CASH_94108",
+    "amountFinanced": 55548.79,
+    "monthlyPayment": 55548.79,
+    "outOfPocketCash": 55548.79,
+    "financeCharge": 0.0
+  },
+  {
+    "testId": "BasicDeal_Rebate_Fees_Accessories_Fni_Leased_Positive_TradeIn_CASH_94108",
+    "amountFinanced": 55548.79,
+    "monthlyPayment": 55548.79,
+    "outOfPocketCash": 55548.79,
+    "financeCharge": 0.0
+  },
+  {
+    "testId": "BasicDeal_Rebate_Fees_Accessories_Fni_Owned_Negative_TradeIn_CASH_10001",
+    "amountFinanced": 60286.18,
+    "monthlyPayment": 60286.18,
+    "outOfPocketCash": 60286.18,
+    "financeCharge": 0.0
+  },
+  {
+    "testId": "BasicDeal_Rebate_Fees_Accessories_Fni_Owned_Positive_TradeIn_CASH_10001",
+    "amountFinanced": 55417.55,
+    "monthlyPayment": 55417.55,
+    "outOfPocketCash": 55417.55,
+    "financeCharge": 0.0
+  },
+  {
+    "testId": "BasicDeal_Rebate_Fees_Accessories_Fni_Leased_Negative_TradeIn_CASH_10001",
+    "amountFinanced": 60383.8,
+    "monthlyPayment": 60383.8,
+    "outOfPocketCash": 60383.8,
+    "financeCharge": 0.0
+  },
+  {
+    "testId": "BasicDeal_Rebate_Fees_Accessories_Fni_Leased_Positive_TradeIn_CASH_10001",
+    "amountFinanced": 55683.8,
+    "monthlyPayment": 55683.8,
+    "outOfPocketCash": 55683.8,
+    "financeCharge": 0.0
+  },
+  {
+    "testId": "BasicDeal_Rebate_Fees_Accessories_Fni_Leased_Negative_TradeIn_CASH_64030",
+    "amountFinanced": 60128.3,
+    "monthlyPayment": 60128.3,
+    "outOfPocketCash": 60128.3,
+    "financeCharge": 0.0
+  },
+  {
+    "testId": "BasicDeal_Rebate_Fees_Accessories_Fni_Owned_Negative_TradeIn_CASH_64030",
+    "amountFinanced": 60032.32,
+    "monthlyPayment": 60032.32,
+    "outOfPocketCash": 60032.32,
+    "financeCharge": 0.0
+  },
+  {
+    "testId": "BasicDeal_Rebate_Fees_Accessories_Fni_Leased_Positive_TradeIn_CASH_64030",
+    "amountFinanced": 55428.3,
+    "monthlyPayment": 55428.3,
+    "outOfPocketCash": 55428.3,
+    "financeCharge": 0.0
+  },
+  {
+    "testId": "BasicDeal_Rebate_Fees_Accessories_Fni_Leased_Negative_TradeIn_CASH_94108",
+    "amountFinanced": 60248.79,
+    "monthlyPayment": 60248.79,
+    "outOfPocketCash": 60248.79,
+    "financeCharge": 0.0
+  },
+  {
+    "testId": "BasicDeal_Rebate_Fees_Accessories_Fni_Owned_Positive_TradeIn_CASH_64030",
+    "amountFinanced": 55166.55,
+    "monthlyPayment": 55166.55,
+    "outOfPocketCash": 55166.55,
+    "financeCharge": 0.0
+  },
+  {
+    "testId": "BasicDeal_Rebate_Fees_Accessories_Fni_Owned_Negative_TradeIn_CASH_94108",
+    "amountFinanced": 60248.79,
+    "monthlyPayment": 60248.79,
+    "outOfPocketCash": 60248.79,
+    "financeCharge": 0.0
+  },
+  {
+    "testId": "BasicDeal_Rebate_Fees_Accessories_Fni_Leased_Negative_TradeIn_CASH_62701",
+    "amountFinanced": 59506.22,
+    "monthlyPayment": 59506.22,
+    "outOfPocketCash": 59506.22,
+    "financeCharge": 0.0
+  },
+  {
+    "testId": "BasicDeal_Rebate_Fees_Accessories_Fni_Owned_Positive_TradeIn_CASH_07007",
+    "amountFinanced": 54269.94,
+    "monthlyPayment": 54269.94,
+    "outOfPocketCash": 54269.94,
+    "financeCharge": 0.0
+  },
+  {
+    "testId": "BasicDeal_Rebate_Fees_Accessories_Fni_Owned_Negative_TradeIn_CASH_62701",
+    "amountFinanced": 59426.47,
+    "monthlyPayment": 59426.47,
+    "outOfPocketCash": 59426.47,
+    "financeCharge": 0.0
+  },
+  {
+    "testId": "BasicDeal_Rebate_Fees_Accessories_Fni_Leased_Negative_TradeIn_CASH_07007",
+    "amountFinanced": 59168.69,
+    "monthlyPayment": 59168.69,
+    "outOfPocketCash": 59168.69,
+    "financeCharge": 0.0
+  },
+  {
+    "testId": "BasicDeal_Rebate_Fees_Accessories_Fni_Owned_Positive_TradeIn_CASH_62701",
+    "amountFinanced": 54588.72,
+    "monthlyPayment": 54588.72,
+    "outOfPocketCash": 54588.72,
+    "financeCharge": 0.0
+  },
+  {
+    "testId": "BasicDeal_Rebate_Fees_Accessories_Fni_Owned_Negative_TradeIn_CASH_07007",
+    "amountFinanced": 59095.82,
+    "monthlyPayment": 59095.82,
+    "outOfPocketCash": 59095.82,
+    "financeCharge": 0.0
+  },
+  {
+    "testId": "BasicDeal_Rebate_Fees_Accessories_Fni_Leased_Positive_TradeIn_CASH_07007",
+    "amountFinanced": 54468.69,
+    "monthlyPayment": 54468.69,
+    "outOfPocketCash": 54468.69,
+    "financeCharge": 0.0
+  },
+  {
+    "testId": "BasicDeal_Rebate_Fees_Accessories_Fni_Leased_Positive_TradeIn_CASH_62701",
+    "amountFinanced": 54806.22,
+    "monthlyPayment": 54806.22,
+    "outOfPocketCash": 54806.22,
+    "financeCharge": 0.0
+  },
+  {
+    "testId": "BasicDeal_Rebate_Fees_Accessories_Fni_Leased_Negative_TradeIn_CASH_20102",
+    "amountFinanced": 57853.07,
+    "monthlyPayment": 57853.07,
+    "outOfPocketCash": 57853.07,
+    "financeCharge": 0.0
+  },
+  {
+    "testId": "BasicDeal_Rebate_Fees_Accessories_Fni_Owned_Negative_TradeIn_CASH_20102",
+    "amountFinanced": 57853.07,
+    "monthlyPayment": 57853.07,
+    "outOfPocketCash": 57853.07,
+    "financeCharge": 0.0
+  },
+  {
+    "testId": "BasicDeal_Rebate_Fees_Accessories_Fni_Owned_Positive_TradeIn_CASH_20001",
+    "amountFinanced": 54131.16,
+    "monthlyPayment": 54131.16,
+    "outOfPocketCash": 54131.16,
+    "financeCharge": 0.0
+  },
+  {
+    "testId": "BasicDeal_Rebate_Fees_Accessories_Fni_Owned_Negative_TradeIn_CASH_20001",
+    "amountFinanced": 58831.16,
+    "monthlyPayment": 58831.16,
+    "outOfPocketCash": 58831.16,
+    "financeCharge": 0.0
+  },
+  {
+    "testId": "BasicDeal_Rebate_Fees_Accessories_Fni_Leased_Positive_TradeIn_CASH_20001",
+    "amountFinanced": 54131.16,
+    "monthlyPayment": 54131.16,
+    "outOfPocketCash": 54131.16,
+    "financeCharge": 0.0
+  },
+  {
+    "testId": "BasicDeal_Rebate_Fees_Accessories_Fni_Leased_Positive_TradeIn_CASH_75001",
+    "amountFinanced": 54141.17,
+    "monthlyPayment": 54141.17,
+    "outOfPocketCash": 54141.17,
+    "financeCharge": 0.0
+  },
+  {
+    "testId": "BasicDeal_Rebate_Fees_Accessories_Fni_Leased_Negative_TradeIn_CASH_75001",
+    "amountFinanced": 58841.17,
+    "monthlyPayment": 58841.17,
+    "outOfPocketCash": 58841.17,
+    "financeCharge": 0.0
+  },
+  {
+    "testId": "BasicDeal_Rebate_Fees_Accessories_Fni_Leased_Negative_TradeIn_CASH_20001",
+    "amountFinanced": 58831.16,
+    "monthlyPayment": 58831.16,
+    "outOfPocketCash": 58831.16,
+    "financeCharge": 0.0
+  },
+  {
+    "testId": "BasicDeal_Rebate_Fees_Accessories_Fni_Owned_Positive_TradeIn_CASH_75001",
+    "amountFinanced": 53953.67,
+    "monthlyPayment": 53953.67,
+    "outOfPocketCash": 53953.67,
+    "financeCharge": 0.0
+  },
+  {
+    "testId": "BasicDeal_Rebate_Fees_Accessories_Fni_Owned_Negative_TradeIn_CASH_75001",
+    "amountFinanced": 58772.42,
+    "monthlyPayment": 58772.42,
+    "outOfPocketCash": 58772.42,
+    "financeCharge": 0.0
+  },
+  {
+    "testId": "BasicDeal_Rebate_Fees_Accessories_Fni_Owned_Negative_TradeIn_CASH_39503",
+    "amountFinanced": 58236.11,
+    "monthlyPayment": 58236.11,
+    "outOfPocketCash": 58236.11,
+    "financeCharge": 0.0
+  },
+  {
+    "testId": "BasicDeal_Rebate_Fees_Accessories_Fni_Leased_Positive_TradeIn_CASH_39503",
+    "amountFinanced": 53591.11,
+    "monthlyPayment": 53591.11,
+    "outOfPocketCash": 53591.11,
+    "financeCharge": 0.0
+  },
+  {
+    "testId": "BasicDeal_Rebate_Fees_Accessories_Fni_Owned_Positive_TradeIn_CASH_39503",
+    "amountFinanced": 53441.11,
+    "monthlyPayment": 53441.11,
+    "outOfPocketCash": 53441.11,
+    "financeCharge": 0.0
+  },
+  {
+    "testId": "BasicDeal_Rebate_Fees_Accessories_Fni_Owned_Negative_TradeIn_CASH_01004",
+    "amountFinanced": 58772.42,
+    "monthlyPayment": 58772.42,
+    "outOfPocketCash": 58772.42,
+    "financeCharge": 0.0
+  },
+  {
+    "testId": "BasicDeal_Rebate_Fees_Accessories_Fni_Owned_Positive_TradeIn_CASH_01004",
+    "amountFinanced": 53953.67,
+    "monthlyPayment": 53953.67,
+    "outOfPocketCash": 53953.67,
+    "financeCharge": 0.0
+  },
+  {
+    "testId": "BasicDeal_Rebate_Fees_Accessories_Fni_Leased_Negative_TradeIn_CASH_39503",
+    "amountFinanced": 58291.11,
+    "monthlyPayment": 58291.11,
+    "outOfPocketCash": 58291.11,
+    "financeCharge": 0.0
+  },
+  {
+    "testId": "BasicDeal_Rebate_Fees_Accessories_Fni_Leased_Positive_TradeIn_CASH_01004",
+    "amountFinanced": 54141.17,
+    "monthlyPayment": 54141.17,
+    "outOfPocketCash": 54141.17,
+    "financeCharge": 0.0
+  },
+  {
+    "testId": "BasicDeal_Rebate_Fees_Accessories_Fni_Leased_Negative_TradeIn_CASH_01004",
+    "amountFinanced": 58841.17,
+    "monthlyPayment": 58841.17,
+    "outOfPocketCash": 58841.17,
+    "financeCharge": 0.0
+  },
+  {
+    "testId": "BasicDeal_Rebate_Fees_Accessories_Fni_Owned_Negative_TradeIn_CASH_43003",
+    "amountFinanced": 59294.21,
+    "monthlyPayment": 59294.21,
+    "outOfPocketCash": 59294.21,
+    "financeCharge": 0.0
+  },
+  {
+    "testId": "BasicDeal_Rebate_Fees_Accessories_Fni_Leased_Negative_TradeIn_CASH_43003",
+    "amountFinanced": 59371.21,
+    "monthlyPayment": 59371.21,
+    "outOfPocketCash": 59371.21,
+    "financeCharge": 0.0
+  },
+  {
+    "testId": "BasicDeal_Rebate_Fees_Accessories_Fni_Owned_Negative_TradeIn_CASH_15001",
+    "amountFinanced": 58645.16,
+    "monthlyPayment": 58645.16,
+    "outOfPocketCash": 58645.16,
+    "financeCharge": 0.0
+  },
+  {
+    "testId": "BasicDeal_Rebate_Fees_Accessories_Fni_Leased_Positive_TradeIn_CASH_15001",
+    "amountFinanced": 54011.16,
+    "monthlyPayment": 54011.16,
+    "outOfPocketCash": 54011.16,
+    "financeCharge": 0.0
+  },
+  {
+    "testId": "BasicDeal_Rebate_Fees_Accessories_Fni_Leased_Negative_TradeIn_CASH_15001",
+    "amountFinanced": 58711.16,
+    "monthlyPayment": 58711.16,
+    "outOfPocketCash": 58711.16,
+    "financeCharge": 0.0
+  },
+  {
+    "testId": "BasicDeal_Rebate_Fees_Accessories_Fni_Owned_Positive_TradeIn_CASH_34232",
+    "amountFinanced": 54001.16,
+    "monthlyPayment": 54001.16,
+    "outOfPocketCash": 54001.16,
+    "financeCharge": 0.0
+  },
+  {
+    "testId": "BasicDeal_Rebate_Fees_Accessories_Fni_Leased_Positive_TradeIn_CASH_34232",
+    "amountFinanced": 54181.16,
+    "monthlyPayment": 54181.16,
+    "outOfPocketCash": 54181.16,
+    "financeCharge": 0.0
+  },
+  {
+    "testId": "BasicDeal_Rebate_Fees_Accessories_Fni_Owned_Positive_TradeIn_CASH_15001",
+    "amountFinanced": 53831.16,
+    "monthlyPayment": 53831.16,
+    "outOfPocketCash": 53831.16,
+    "financeCharge": 0.0
+  },
+  {
+    "testId": "BasicDeal_Rebate_Fees_Accessories_Fni_Owned_Negative_TradeIn_CASH_35216",
+    "amountFinanced": 57574.8,
+    "monthlyPayment": 57574.8,
+    "outOfPocketCash": 57574.8,
+    "financeCharge": 0.0
+  },
+  {
+    "testId": "BasicDeal_Rebate_Fees_Accessories_Fni_Leased_Positive_TradeIn_CASH_35216",
+    "amountFinanced": 52916.05,
+    "monthlyPayment": 52916.05,
+    "outOfPocketCash": 52916.05,
+    "financeCharge": 0.0
+  },
+  {
+    "testId": "BasicDeal_Rebate_Fees_Accessories_Fni_Owned_Positive_TradeIn_CASH_35216",
+    "amountFinanced": 52803.55,
+    "monthlyPayment": 52803.55,
+    "outOfPocketCash": 52803.55,
+    "financeCharge": 0.0
+  },
+  {
+    "testId": "BasicDeal_Rebate_Fees_Accessories_Fni_Leased_Negative_TradeIn_CASH_35216",
+    "amountFinanced": 57616.05,
+    "monthlyPayment": 57616.05,
+    "outOfPocketCash": 57616.05,
+    "financeCharge": 0.0
+  },
+  {
+    "testId": "BasicDeal_Rebate_Fees_Accessories_Fni_Owned_Negative_TradeIn_CASH_34232",
+    "amountFinanced": 58815.16,
+    "monthlyPayment": 58815.16,
+    "outOfPocketCash": 58815.16,
+    "financeCharge": 0.0
+  },
+  {
+    "testId": "BasicDeal_Rebate_Fees_Accessories_Fni_Leased_Negative_TradeIn_CASH_96701",
+    "amountFinanced": 58135.58,
+    "monthlyPayment": 58135.58,
+    "outOfPocketCash": 58135.58,
+    "financeCharge": 0.0
+  },
+  {
+    "testId": "BasicDeal_Rebate_Fees_Accessories_Fni_Leased_Positive_TradeIn_CASH_96701",
+    "amountFinanced": 53435.58,
+    "monthlyPayment": 53435.58,
+    "outOfPocketCash": 53435.58,
+    "financeCharge": 0.0
+  },
+  {
+    "testId": "BasicDeal_Rebate_Fees_Accessories_Fni_Owned_Negative_TradeIn_CASH_89108",
+    "amountFinanced": 60021.65,
+    "monthlyPayment": 60021.65,
+    "outOfPocketCash": 60021.65,
+    "financeCharge": 0.0
+  },
+  {
+    "testId": "BasicDeal_Rebate_Fees_Accessories_Fni_Leased_Positive_TradeIn_CASH_89108",
+    "amountFinanced": 55413.78,
+    "monthlyPayment": 55413.78,
+    "outOfPocketCash": 55413.78,
+    "financeCharge": 0.0
+  },
+  {
+    "testId": "BasicDeal_Rebate_Fees_Accessories_Fni_Leased_Negative_TradeIn_CASH_89108",
+    "amountFinanced": 60113.78,
+    "monthlyPayment": 60113.78,
+    "outOfPocketCash": 60113.78,
+    "financeCharge": 0.0
+  },
+  {
+    "testId": "BasicDeal_Rebate_Fees_Accessories_Fni_Owned_Negative_TradeIn_CASH_96701",
+    "amountFinanced": 58135.58,
+    "monthlyPayment": 58135.58,
+    "outOfPocketCash": 58135.58,
+    "financeCharge": 0.0
+  },
+  {
+    "testId": "BasicDeal_Rebate_Fees_Accessories_Fni_Owned_Positive_TradeIn_CASH_96701",
+    "amountFinanced": 53435.58,
+    "monthlyPayment": 53435.58,
+    "outOfPocketCash": 53435.58,
+    "financeCharge": 0.0
+  },
+  {
+    "testId": "BasicDeal_Rebate_Fees_Accessories_Fni_Owned_Positive_TradeIn_CASH_89108",
+    "amountFinanced": 55162.53,
+    "monthlyPayment": 55162.53,
+    "outOfPocketCash": 55162.53,
+    "financeCharge": 0.0
+  },
+  {
+    "testId": "BasicDeal_Rebate_Fees_Accessories_Fni_Owned_Positive_TradeIn_CASH_40025",
+    "amountFinanced": 53831.16,
+    "monthlyPayment": 53831.16,
+    "outOfPocketCash": 53831.16,
+    "financeCharge": 0.0
+  },
+  {
+    "testId": "BasicDeal_Rebate_Fees_Accessories_Fni_Owned_Negative_TradeIn_CASH_85364",
+    "amountFinanced": 59872.99,
+    "monthlyPayment": 59872.99,
+    "outOfPocketCash": 59872.99,
+    "financeCharge": 0.0
+  },
+  {
+    "testId": "BasicDeal_Rebate_Fees_Accessories_Fni_Owned_Positive_TradeIn_CASH_68501",
+    "amountFinanced": 54443.72,
+    "monthlyPayment": 54443.72,
+    "outOfPocketCash": 54443.72,
+    "financeCharge": 0.0
+  },
+  {
+    "testId": "BasicDeal_Rebate_Fees_Accessories_Fni_Leased_Negative_TradeIn_CASH_40025",
+    "amountFinanced": 58711.16,
+    "monthlyPayment": 58711.16,
+    "outOfPocketCash": 58711.16,
+    "financeCharge": 0.0
+  },
+  {
+    "testId": "BasicDeal_Rebate_Fees_Accessories_Fni_Leased_Negative_TradeIn_CASH_85364",
+    "amountFinanced": 59965.52,
+    "monthlyPayment": 59965.52,
+    "outOfPocketCash": 59965.52,
+    "financeCharge": 0.0
+  },
+  {
+    "testId": "BasicDeal_Rebate_Fees_Accessories_Fni_Leased_Positive_TradeIn_CASH_40025",
+    "amountFinanced": 54011.16,
+    "monthlyPayment": 54011.16,
+    "outOfPocketCash": 54011.16,
+    "financeCharge": 0.0
+  },
+  {
+    "testId": "BasicDeal_Rebate_Fees_Accessories_Fni_Owned_Negative_TradeIn_CASH_40025",
+    "amountFinanced": 58645.16,
+    "monthlyPayment": 58645.16,
+    "outOfPocketCash": 58645.16,
+    "financeCharge": 0.0
+  },
+  {
+    "testId": "BasicDeal_Rebate_Fees_Accessories_Fni_Leased_Positive_TradeIn_CASH_85364",
+    "amountFinanced": 55265.52,
+    "monthlyPayment": 55265.52,
+    "outOfPocketCash": 55265.52,
+    "financeCharge": 0.0
+  },
+  {
+    "testId": "BasicDeal_Rebate_Fees_Accessories_Fni_Leased_Positive_TradeIn_CASH_68501",
+    "amountFinanced": 54661.22,
+    "monthlyPayment": 54661.22,
+    "outOfPocketCash": 54661.22,
+    "financeCharge": 0.0
+  },
+  {
+    "testId": "BasicDeal_Rebate_Fees_Accessories_Fni_Owned_Negative_TradeIn_CASH_68501",
+    "amountFinanced": 59281.47,
+    "monthlyPayment": 59281.47,
+    "outOfPocketCash": 59281.47,
+    "financeCharge": 0.0
+  },
+  {
+    "testId": "BasicDeal_Rebate_Fees_Accessories_Fni_Leased_Negative_TradeIn_CASH_68501",
+    "amountFinanced": 59361.22,
+    "monthlyPayment": 59361.22,
+    "outOfPocketCash": 59361.22,
+    "financeCharge": 0.0
+  },
+  {
+    "testId": "BasicDeal_Rebate_Fees_Accessories_Fni_Owned_Positive_TradeIn_CASH_84095",
+    "amountFinanced": 54443.72,
+    "monthlyPayment": 54443.72,
+    "outOfPocketCash": 54443.72,
+    "financeCharge": 0.0
+  },
+  {
+    "testId": "BasicDeal_Rebate_Fees_Accessories_Fni_Leased_Positive_TradeIn_CASH_84095",
+    "amountFinanced": 54661.22,
+    "monthlyPayment": 54661.22,
+    "outOfPocketCash": 54661.22,
+    "financeCharge": 0.0
+  },
+  {
+    "testId": "BasicDeal_Rebate_Fees_Accessories_Fni_Owned_Positive_TradeIn_CASH_73008",
+    "amountFinanced": 53231.09,
+    "monthlyPayment": 53231.09,
+    "outOfPocketCash": 53231.09,
+    "financeCharge": 0.0
+  },
+  {
+    "testId": "BasicDeal_Rebate_Fees_Accessories_Fni_Owned_Negative_TradeIn_CASH_84095",
+    "amountFinanced": 59281.47,
+    "monthlyPayment": 59281.47,
+    "outOfPocketCash": 59281.47,
+    "financeCharge": 0.0
+  },
+  {
+    "testId": "BasicDeal_Rebate_Fees_Accessories_Fni_Leased_Positive_TradeIn_CASH_29229",
+    "amountFinanced": 51390.86,
+    "monthlyPayment": 51390.86,
+    "outOfPocketCash": 51390.86,
+    "financeCharge": 0.0
+  },
+  {
+    "testId": "BasicDeal_Rebate_Fees_Accessories_Fni_Leased_Negative_TradeIn_CASH_84095",
+    "amountFinanced": 59361.22,
+    "monthlyPayment": 59361.22,
+    "outOfPocketCash": 59361.22,
+    "financeCharge": 0.0
+  },
+  {
+    "testId": "BasicDeal_Rebate_Fees_Accessories_Fni_Owned_Positive_TradeIn_CASH_29229",
+    "amountFinanced": 51390.86,
+    "monthlyPayment": 51390.86,
+    "outOfPocketCash": 51390.86,
+    "financeCharge": 0.0
+  },
+  {
+    "testId": "BasicDeal_Rebate_Fees_Accessories_Fni_Owned_Negative_TradeIn_CASH_29229",
+    "amountFinanced": 56090.86,
+    "monthlyPayment": 56090.86,
+    "outOfPocketCash": 56090.86,
+    "financeCharge": 0.0
+  },
+  {
+    "testId": "BasicDeal_Rebate_Fees_Accessories_Fni_Leased_Negative_TradeIn_CASH_29229",
+    "amountFinanced": 56090.86,
+    "monthlyPayment": 56090.86,
+    "outOfPocketCash": 56090.86,
+    "financeCharge": 0.0
+  },
+  {
+    "testId": "BasicDeal_Rebate_Fees_Accessories_Fni_Leased_Positive_TradeIn_CASH_73008",
+    "amountFinanced": 53231.09,
+    "monthlyPayment": 53231.09,
+    "outOfPocketCash": 53231.09,
+    "financeCharge": 0.0
+  },
+  {
+    "testId": "BasicDeal_Rebate_Fees_Accessories_Fni_Leased_Negative_TradeIn_CASH_73008",
+    "amountFinanced": 57931.09,
+    "monthlyPayment": 57931.09,
+    "outOfPocketCash": 57931.09,
+    "financeCharge": 0.0
+  },
+  {
+    "testId": "BasicDeal_Rebate_Fees_Accessories_Fni_Owned_Negative_TradeIn_CASH_48204",
+    "amountFinanced": 58771.16,
+    "monthlyPayment": 58771.16,
+    "outOfPocketCash": 58771.16,
+    "financeCharge": 0.0
+  },
+  {
+    "testId": "BasicDeal_Rebate_Fees_Accessories_Fni_Owned_Negative_TradeIn_CASH_73008",
+    "amountFinanced": 57931.09,
+    "monthlyPayment": 57931.09,
+    "outOfPocketCash": 57931.09,
+    "financeCharge": 0.0
+  },
+  {
+    "testId": "BasicDeal_Rebate_Fees_Accessories_Fni_Leased_Positive_TradeIn_CASH_48204",
+    "amountFinanced": 54011.16,
+    "monthlyPayment": 54011.16,
+    "outOfPocketCash": 54011.16,
+    "financeCharge": 0.0
+  },
+  {
+    "testId": "BasicDeal_Rebate_Fees_Accessories_Fni_Owned_Positive_TradeIn_CASH_48204",
+    "amountFinanced": 54011.16,
+    "monthlyPayment": 54011.16,
+    "outOfPocketCash": 54011.16,
+    "financeCharge": 0.0
+  },
+  {
+    "testId": "BasicDeal_Rebate_Fees_Accessories_Fni_Owned_Positive_TradeIn_CASH_99501",
+    "amountFinanced": 50890.86,
+    "monthlyPayment": 50890.86,
+    "outOfPocketCash": 50890.86,
+    "financeCharge": 0.0
+  },
+  {
+    "testId": "BasicDeal_Rebate_Fees_Accessories_Fni_Leased_Positive_TradeIn_CASH_99501",
+    "amountFinanced": 50890.86,
+    "monthlyPayment": 50890.86,
+    "outOfPocketCash": 50890.86,
+    "financeCharge": 0.0
+  },
+  {
+    "testId": "BasicDeal_Rebate_Fees_Accessories_Fni_Owned_Negative_TradeIn_CASH_99501",
+    "amountFinanced": 55590.86,
+    "monthlyPayment": 55590.86,
+    "outOfPocketCash": 55590.86,
+    "financeCharge": 0.0
+  },
+  {
+    "testId": "BasicDeal_Rebate_Fees_Accessories_Fni_Leased_Negative_TradeIn_CASH_48204",
+    "amountFinanced": 58771.16,
+    "monthlyPayment": 58771.16,
+    "outOfPocketCash": 58771.16,
+    "financeCharge": 0.0
+  },
+  {
+    "testId": "BasicDeal_Rebate_Fees_Accessories_Fni_Owned_Positive_TradeIn_CASH_97035",
+    "amountFinanced": 51138.65,
+    "monthlyPayment": 51138.65,
+    "outOfPocketCash": 51138.65,
+    "financeCharge": 0.0
+  },
+  {
+    "testId": "BasicDeal_Rebate_Fees_Accessories_Fni_Owned_Negative_TradeIn_CASH_97035",
+    "amountFinanced": 55838.65,
+    "monthlyPayment": 55838.65,
+    "outOfPocketCash": 55838.65,
+    "financeCharge": 0.0
+  },
+  {
+    "testId": "BasicDeal_Rebate_Fees_Accessories_Fni_Leased_Positive_TradeIn_CASH_59001",
+    "amountFinanced": 50890.86,
+    "monthlyPayment": 50890.86,
+    "outOfPocketCash": 50890.86,
+    "financeCharge": 0.0
+  },
+  {
+    "testId": "BasicDeal_Rebate_Fees_Accessories_Fni_Owned_Negative_TradeIn_CASH_59001",
+    "amountFinanced": 55590.86,
+    "monthlyPayment": 55590.86,
+    "outOfPocketCash": 55590.86,
+    "financeCharge": 0.0
+  },
+  {
+    "testId": "BasicDeal_Rebate_Fees_Accessories_Fni_Leased_Negative_TradeIn_CASH_59001",
+    "amountFinanced": 55590.86,
+    "monthlyPayment": 55590.86,
+    "outOfPocketCash": 55590.86,
+    "financeCharge": 0.0
+  },
+  {
+    "testId": "BasicDeal_Rebate_Fees_Accessories_Fni_Leased_Positive_TradeIn_CASH_97035",
+    "amountFinanced": 51138.65,
+    "monthlyPayment": 51138.65,
+    "outOfPocketCash": 51138.65,
+    "financeCharge": 0.0
+  },
+  {
+    "testId": "BasicDeal_Rebate_Fees_Accessories_Fni_Leased_Positive_TradeIn_CASH_87121",
+    "amountFinanced": 52971.06,
+    "monthlyPayment": 52971.06,
+    "outOfPocketCash": 52971.06,
+    "financeCharge": 0.0
+  },
+  {
+    "testId": "BasicDeal_Rebate_Fees_Accessories_Fni_Leased_Negative_TradeIn_CASH_97035",
+    "amountFinanced": 55838.65,
+    "monthlyPayment": 55838.65,
+    "outOfPocketCash": 55838.65,
+    "financeCharge": 0.0
+  },
+  {
+    "testId": "BasicDeal_Rebate_Fees_Accessories_Fni_Owned_Positive_TradeIn_CASH_87121",
+    "amountFinanced": 52851.06,
+    "monthlyPayment": 52851.06,
+    "outOfPocketCash": 52851.06,
+    "financeCharge": 0.0
+  },
+  {
+    "testId": "BasicDeal_Rebate_Fees_Accessories_Fni_Owned_Positive_TradeIn_CASH_59001",
+    "amountFinanced": 50890.86,
+    "monthlyPayment": 50890.86,
+    "outOfPocketCash": 50890.86,
+    "financeCharge": 0.0
+  },
+  {
+    "testId": "BasicDeal_Rebate_Fees_Accessories_Fni_Owned_Negative_TradeIn_CASH_87121",
+    "amountFinanced": 57627.06,
+    "monthlyPayment": 57627.06,
+    "outOfPocketCash": 57627.06,
+    "financeCharge": 0.0
+  },
+  {
+    "testId": "BasicDeal_Rebate_Fees_Accessories_Fni_Leased_Negative_TradeIn_CASH_87121",
+    "amountFinanced": 57671.06,
+    "monthlyPayment": 57671.06,
+    "outOfPocketCash": 57671.06,
+    "financeCharge": 0.0
+  },
+  {
+    "testId": "BasicDeal_Rebate_Fees_Accessories_Fni_Leased_Negative_TradeIn_CASH_03101",
+    "amountFinanced": 55590.86,
+    "monthlyPayment": 55590.86,
+    "outOfPocketCash": 55590.86,
+    "financeCharge": 0.0
+  },
+  {
+    "testId": "BasicDeal_Rebate_Fees_Accessories_Fni_Owned_Negative_TradeIn_CASH_03101",
+    "amountFinanced": 55590.86,
+    "monthlyPayment": 55590.86,
+    "outOfPocketCash": 55590.86,
+    "financeCharge": 0.0
+  },
+  {
+    "testId": "BasicDeal_Rebate_Fees_Accessories_Fni_Leased_Positive_TradeIn_CASH_02860",
+    "amountFinanced": 54531.21,
+    "monthlyPayment": 54531.21,
+    "outOfPocketCash": 54531.21,
+    "financeCharge": 0.0
+  },
+  {
+    "testId": "BasicDeal_Rebate_Fees_Accessories_Fni_Leased_Positive_TradeIn_CASH_03101",
+    "amountFinanced": 50890.86,
+    "monthlyPayment": 50890.86,
+    "outOfPocketCash": 50890.86,
+    "financeCharge": 0.0
+  },
+  {
+    "testId": "BasicDeal_Rebate_Fees_Accessories_Fni_Leased_Negative_TradeIn_CASH_02860",
+    "amountFinanced": 59231.21,
+    "monthlyPayment": 59231.21,
+    "outOfPocketCash": 59231.21,
+    "financeCharge": 0.0
+  },
+  {
+    "testId": "BasicDeal_Rebate_Fees_Accessories_Fni_Owned_Positive_TradeIn_CASH_02860",
+    "amountFinanced": 54531.21,
+    "monthlyPayment": 54531.21,
+    "outOfPocketCash": 54531.21,
+    "financeCharge": 0.0
+  },
+  {
+    "testId": "BasicDeal_Rebate_Fees_Accessories_Fni_Owned_Positive_TradeIn_CASH_03101",
+    "amountFinanced": 50890.86,
+    "monthlyPayment": 50890.86,
+    "outOfPocketCash": 50890.86,
+    "financeCharge": 0.0
+  },
+  {
+    "testId": "BasicDeal_Rebate_Fees_Accessories_Fni_Owned_Negative_TradeIn_CASH_02860",
+    "amountFinanced": 59231.21,
+    "monthlyPayment": 59231.21,
+    "outOfPocketCash": 59231.21,
+    "financeCharge": 0.0
+  }
+]
