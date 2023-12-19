@@ -22,5 +22,8 @@ public class Formula {
 
 
         System.out.println("added new line");
+        System.out.println("added new line");
+        System.out.println("added new line");
+        System.out.println("added new line");
     }
 }
