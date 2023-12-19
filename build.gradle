@@ -1,5 +1,6 @@
 plugins {
     id 'java'
+    id "org.sonarqube" version "4.4.1.3373"
 }
 
 group 'org.example'
@@ -7,6 +8,14 @@ version '1.0-SNAPSHOT'
 
 repositories {
     mavenCentral()
+}
+sonar {
+    properties {
+        property('sonar.projectKey', 'FizBuzz')
+        property('sonar.projectName', 'FizBuzz')
+        property('sonar.host.url', 'http://localhost:9000')
+        property('sonar.token', 'sqp_b00f921342ef9db8a951329ccdaa27b6d2ae1716')
+    }
 }
 
 
@@ -24,6 +33,7 @@ dependencies {
     implementation 'com.microsoft.playwright:playwright:1.37.0'
     implementation 'com.fasterxml.jackson.core:jackson-databind:2.15.2'
     implementation 'org.modelmapper:modelmapper:3.1.1'
+    implementation group: 'com.microsoft.playwright', name: 'playwright', version: '1.28.1'
 
 }
 
