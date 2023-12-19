@@ -20,5 +20,7 @@ public class Formula {
 
         System.out.println("Finance charge: "+result);
 
+
+        System.out.println("added new line");
     }
 }
